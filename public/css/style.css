@@ -1,0 +1,16 @@
+.innerimg {
+    height: 200px;
+    width: 200px;
+}
+
+@media screen and (max-width: 575px) {
+    .innerimg {
+        height: 150px;
+        width: 150px;
+
+    }
+}
+
+.innerdiv {
+    padding-left: 100px;
+}
